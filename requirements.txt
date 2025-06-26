@@ -1,0 +1,10 @@
+numpy
+stable-baselines3[extra]
+gymnasium[box2d]
+torch
+matplotlib
+tensorboard
+setuptools
+opencv-python
+tqdm
+rich
