@@ -1,6 +1,7 @@
 numpy
 stable-baselines3[extra]
-gymnasium[box2d]
+gymnasium
+box2d
 torch
 matplotlib
 tensorboard
